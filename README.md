@@ -79,9 +79,9 @@
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
-[![Email](https://img.shields.io/badge/Email-dawit@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dawit@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dawit-kassa-5a2507244/)
+[![Email](https://img.shields.io/badge/Email-dawit@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkassa253@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 ---
 
