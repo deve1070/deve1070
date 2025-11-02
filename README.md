@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/deve1070.png" width="150" height="150" style="border-radius:50%" alt="Dawit Mekonnen Kassa" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Dawit Mekonnen Kassa</h1>
 <h3 align="center">A passionate Fullstack Developer from Ethiopia 🇪🇹</h3>
 
