@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Dawit Mekonnen Kassa</h1>
+<h1 align="center">Hi 👋, I'm Dawit Mekonnen Kasa</h1>
 <h3 align="center">A passionate Fullstack Developer from Ethiopia 🇪🇹</h3>
 
 ---
